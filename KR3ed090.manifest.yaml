@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed090_000.yaml, hash: 'sha256:4fd333d4299d691f23a4741b0cb853e20698ebf354f6cc561a04a784a46eb8d6'}
+  - {seq: 0, filename: KR3ed090_000.yaml, hash: 'sha256:e233d4fae624f1b2b8fd4d9505be6a61aae13be11f876c5af81443516337ede5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed090_000.markers.yaml, hash: 'sha256:c6e1f59b02c7ced7200d060ff40a9180ad47b2833ed7f3ca978990b0855b671d'}
+  - {seq: 0, role: markers, filename: assets/KR3ed090_000.markers.yaml, hash: 'sha256:5162286825cbf08f312b0d365ca2cfe2215f3f53a73318e5297a5df82bbb9e68'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2781,7 +2781,4 @@ table_of_contents:
   label: 附資液救焚湯
   type: section
   level: 3
-hash: sha256:bbb9982269b802ec37fb1179ff2af058fde82fa0de1be836a50b7b685882ecdf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:57c9b4f80ef847c083a9826278a61335d1df7397932ecc07765841f8a1850496
