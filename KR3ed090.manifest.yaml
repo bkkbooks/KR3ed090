@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed090_000.yaml, hash: 'sha256:e059a2221770c2f439e86ea368a84549a88b9a687f09a3df9f43b7ca36885926'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed090_000.markers.yaml, hash: 'sha256:417567e60d6f9142cd09a8335fe05b47bc2578219d2d190b8397669f0f113814'}
+  - {seq: 0, role: markers, filename: assets/KR3ed090_000.markers.yaml, hash: 'sha256:0756809592c03d321a8084009cf9f40e8d6eaf46e1014a5f958c25f031c9f9af'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2781,7 +2781,7 @@ table_of_contents:
   label: 附資液救焚湯
   type: section
   level: 3
-hash: sha256:509425b151a10455e8005943363f223929672700f0ad63a9399761040960003b
+hash: sha256:e41d31872d91dbb98f55b9737037d2891df34162e85c5608a94ab263e0d107bd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
